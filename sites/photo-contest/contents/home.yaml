@@ -1,0 +1,36 @@
+banners:
+  - banners/sample.gif
+  - banners/sample.gif
+  - banners/sample.gif
+  - banners/sample.gif
+
+cara_bermain: cara-bermain.gif
+
+hadiah:
+  - title: Jalan Gan!
+    description: Jalan gitu dah
+    image: hadiah/hadiah.gif
+    
+  - title: Muntah Gears!
+    description: Lo bakalan dapet macem-macem gears dari mozilla
+    image: hadiah/hadiah.gif
+
+syarat_dan_ketentuan: |
+    <h1>Syarat dan Ketentuan</h1>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi elementum, libero et ullamcorper mollis, tortor dui ultricies leo, ut suscipit massa lectus eget lacus. In ut lacus quis ipsum sagittis pharetra id id elit. Praesent quis leo eu justo rutrum vehicula ut sit amet sem. Maecenas sit amet iaculis purus, a pellentesque ipsum. Donec elit leo, adipiscing non nulla sit amet, luctus fermentum lacus. Sed fermentum, arcu vel porta adipiscing, tellus mi faucibus diam, ac ullamcorper ante augue ac magna. Duis pretium lorem imperdiet augue mattis tincidunt. Sed mattis interdum ante non commodo. Aliquam justo leo, adipiscing eget auctor et, mattis a metus. Donec accumsan arcu non nulla venenatis faucibus. Nam venenatis neque vitae dignissim aliquet.</p>
+    <ol>
+      <li>
+        <h4>First</h4>
+        <p>Sed in tortor id lorem sagittis dignissim. Ut ullamcorper mauris turpis, a molestie nunc cursus eget. Nullam blandit, odio non suscipit volutpat, nunc dolor ultricies lectus, condimentum ultricies mi sem quis tortor. Integer facilisis feugiat erat eget tempor.</p>
+      </li>
+      <li>
+        <h4>Two</h4>
+        <p>Sed in tortor id lorem sagittis dignissim. Ut ullamcorper mauris turpis, a molestie nunc cursus eget. Nullam blandit, odio non suscipit volutpat, nunc dolor ultricies lectus, condimentum ultricies mi sem quis tortor. Integer facilisis feugiat erat eget tempor.</p>
+      </li>
+      <li>
+        <h4>Three</h4>
+        <p>Sed in tortor id lorem sagittis dignissim. Ut ullamcorper mauris turpis, a molestie nunc cursus eget. Nullam blandit, odio non suscipit volutpat, nunc dolor ultricies lectus, condimentum ultricies mi sem quis tortor. Integer facilisis feugiat erat eget tempor.</p>
+      </li>
+    </ol>
+
+    <p> Cras elementum sem purus. Mauris consectetur faucibus interdum. Nam ut lorem id lectus ultrices feugiat. Cras vehicula elit nisi, et aliquet augue vulputate non. Phasellus porta ligula quam, vitae mollis augue venenatis eu. Praesent tempor ipsum id ligula aliquam semper. Praesent erat ligula, accumsan eu vulputate sed, viverra eget dui. Sed accumsan id metus a ornare. Proin nec condimentum sem. Maecenas pretium ac purus vitae luctus. Etiam id nisl sed augue posuere placerat a et quam. Cras ut nisl nisl. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis condimentum est ac erat iaculis, quis convallis nisl rutrum. Vivamus non sapien ac magna scelerisque bibendum id non magna.</p>

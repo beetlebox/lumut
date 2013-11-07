@@ -1,5 +1,5 @@
 <?php
-define('SITE', 'lumut');
+define('SITE', 'photo-contest');
 
 require_once "libraries/loader.php";
 

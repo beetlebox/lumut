@@ -1,0 +1,14 @@
+title: Mozilla Photo Contest
+site_description: 
+description: Photo Contest by Mozilla
+
+opengraph:
+  site_name:
+  title:
+  description:
+
+menus:
+  "Cara Bermain": "#cara-bermain"
+  "Gallery": "#gallery"
+  "Hadiah": "#hadiah"
+  "Syarat dan Ketentuan" : "#syarat-dan-ketentuan"
