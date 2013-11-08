@@ -19,7 +19,7 @@
           <li><a href="https://www.mozilla.org/en-US/privacy/" rel="external">Privacy Policy</a></li>
           <li><a href="https://www.mozilla.org/en-US/about/legal.html" rel="external">Legal Notice</a></li>
           <li><a href="https://www.mozilla.org/en-US/legal/fraud-report/index.html" rel="external">Report Trademark Abuse</a></li>
-          <li><a href="https://github.com/mozilla/One-Mozilla-blog/" rel="external">Theme Code</a></li>
+          <li><a href="https://github.com/beetlebox/mozilla-photo-contest" rel="external">Source Code</a></li>
         </ul>
       </nav>
     </div>
