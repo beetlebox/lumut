@@ -1,4 +1,6 @@
-lumut
+Mozilla Photo Contest Microsite
 =====
 
-Simple PHP Framework using YAML
+Mozilla Photo Contest Microsite for Mozilla Firefox Campaign in Indonesia.
+
+Based on [Lumut](http://github.com/swznd/lumut)
